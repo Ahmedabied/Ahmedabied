@@ -31,6 +31,9 @@ things that do not break quietly.
 
 ### Pinned below
 
+- **spine41** reads and writes the Spine 4.1 binary skeleton format in pure Python, and
+  puts the file back together byte for byte. I wrote it because the published format docs
+  are two versions out of date.
 - **anonsurf** puts your whole machine behind Tor with iptables. The part I am proud of is
   that it can never leave your firewall half-applied.
 - **Crack_detection** finds asphalt cracks in road photos and recommends the treatment.
