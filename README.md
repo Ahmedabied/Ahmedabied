@@ -13,6 +13,7 @@ things that do not break quietly.
 | Where | What it is |
 |---|---|
 | **[tamlikoman.com](https://tamlikoman.com)** | Real-estate platform I built and operate solo. Django, PostgreSQL, Redis and Docker, behind 20+ Cloudflare edge services. Live every day for over a year. |
+| **Tamlik internal management system** | The system the company runs its day-to-day on. Vue and Nuxt, built solo, in daily use for over a year. Private, so no link. |
 | **[studio22.om](https://studio22.om)** | Site for a Muscat creative and event studio. Astro on Cloudflare Workers with D1 and KV, apex domain, designed and shipped solo. |
 | **Ministry of Labour Forum 2026** | Registration, QR ticketing and gate check-in for a national multi-day forum. Hundreds of registrations and door scans on opening morning, zero errors. |
 
@@ -26,11 +27,13 @@ things that do not break quietly.
 - **Keeping it up.** Sentry with per-commit release tagging, dead-man heartbeats on every
   scheduled job, health probes, structured security logging, documented one-command
   rollbacks.
-- **The rest.** Python (12+ years), Django, JavaScript, data pipelines, Figma and bilingual
+- **The rest.** Python (12+ years), Django, Vue and Nuxt, TypeScript, Discord bots, data pipelines, Figma and bilingual
   RTL design systems, TensorFlow and OpenCV, and hands-on malware analysis because I enjoy it.
 
 ### Pinned below
 
+- **discord-dice-worker** is a Discord `/roll` command that runs on a Cloudflare Worker, no bot
+  server to keep online. Signed requests, crypto randomness, 32 tests.
 - **spine41** reads and writes the Spine 4.1 binary skeleton format in pure Python, and
   puts the file back together byte for byte. I wrote it because the published format docs
   are two versions out of date.
