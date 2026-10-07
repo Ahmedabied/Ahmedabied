@@ -15,6 +15,7 @@ things that do not break quietly.
 | **[tamlikoman.com](https://tamlikoman.com)** | Real-estate platform I built and operate solo. Django, PostgreSQL, Redis and Docker, behind 20+ Cloudflare edge services. Live every day for over a year. |
 | **Tamlik internal management system** | The system the company runs its day-to-day on. Vue and Nuxt, built solo, in daily use for over a year. Private, so no link. |
 | **[studio22.om](https://studio22.om)** | Site for a Muscat creative and event studio. Astro on Cloudflare Workers with D1 and KV, apex domain, designed and shipped solo. |
+| **[playday.om](https://playday.om)** | Site for a Muscat kids club, in English and Arabic. Mini games for kids, a hand-drawn cat mascot, and a research-based guide for parents. No framework, on Cloudflare Workers. |
 | **Ministry of Labour Forum 2026** | Registration, QR ticketing and gate check-in for a national multi-day forum. Hundreds of registrations and door scans on opening morning, zero errors. |
 
 ### What I actually do
