@@ -45,4 +45,4 @@ things that do not break quietly.
 
 ---
 
-Arabic · English · Türkçe · Русский &nbsp;|&nbsp; ahmed.abied@yandex.com
+Arabic · English · Türkçe · Русский &nbsp;|&nbsp; medooped020@gmail.com
